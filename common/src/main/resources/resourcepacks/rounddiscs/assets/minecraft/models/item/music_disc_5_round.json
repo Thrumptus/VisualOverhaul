@@ -1,6 +1,6 @@
 {
 	"parent": "visualoverhaul:item/round_disc",
 	"textures": {
-		"0": "minecraft:item/music_disc_5"
+		"0": "minecraft:item/music_disc_5_smol"
 	}
 }
